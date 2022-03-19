@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "raziul/tabler-laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Tabler Laravel is a Premium and Open Source dashboard template with responsive and high quality UI.",
     "keywords": [
         "framework",
         "laravel"
@@ -30,7 +30,7 @@
             "Database\\Seeders\\": "database/seeders/"
         },
         "files": [
-            "App/Utility/Helpers.php"
+            "App/Utility/Functions.php"
         ]
     },
     "autoload-dev": {
